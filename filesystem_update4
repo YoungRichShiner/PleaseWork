@@ -1,0 +1,4 @@
+res://Scenes/Main.tscn
+res://Particles/Emitter.tres
+res://Scenes/Player works LOL.tscn
+res://Scripts/grapple_controller.gd
